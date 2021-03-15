@@ -136,7 +136,7 @@ header .btn:hover {
 
 
 #home-container {
-	background-image: url(images/herobanner.jpg);
+	background-image: url("../images/herobanner.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -177,7 +177,7 @@ header .btn:hover {
 }
 
 #strategy-container {
-	background-image: url(images/investment-strategies.jpg);
+	background-image: url("../images/investment-strategies.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -268,7 +268,7 @@ header .btn:hover {
 }
 
 #stream-container {
-	background-image: url(images/livestream2.webp);
+	background-image: url("../images/livestream2.webp");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -277,7 +277,7 @@ header .btn:hover {
 }
 
 #scalping-container {
-	background-image: url(images/scalping.jpg);
+	background-image: url("../images/scalping.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -287,7 +287,7 @@ header .btn:hover {
 }
 
 #squeeze-container {
-	background-image: url(images/chart.jpg);
+	background-image: url("../images/chart.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -302,7 +302,7 @@ header .btn:hover {
 }
 
 #services-container {
-	background-image: url(images/Success.jpg);
+	background-image: url("../images/Success.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -316,7 +316,7 @@ header .btn:hover {
 }
 
 #watchlist-container {
-	background-image: url(images/watchlist2.jpg);
+	background-image: url("../images/watchlist2.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -330,7 +330,7 @@ header .btn:hover {
 }
 
 #basics-container {
-	background-image: url(images/keyterms.jpg);
+	background-image: url("../images/keyterms.jpg");
 	height: 500px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -772,3 +772,4 @@ input[type=submit]:hover {
 	#watchlist-section .inner { overflow-x: auto; }
 	.inner-container { margin-top: 30%; }
 }
+
